@@ -12,6 +12,7 @@
     - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operation-system)  
   - Softwares
     - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
+    - [MariaDB (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mariadb-database-management-system)
     - [Apache Cassandra (NoSQL Database)](https://github.com/amitmerchant1990/how-products-got-their-name#apache-cassandra-nosql-database)
     - [Git (Version control system)](https://github.com/amitmerchant1990/how-products-got-their-name#git-version-control-system)
     - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-frmaework)
@@ -42,6 +43,10 @@ Eich: That’s right. It was all within six months from May till December (1995)
 ### MySQL (Database management system)
 
 [Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named).
+
+### MariaDB (Database management system)
+
+[Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founders of MariaDB and his younger daughter is named Maria. Following the MySQL naming, the new db was named after Maria.
 
 ### Git (Version control system)
 
